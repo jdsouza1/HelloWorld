@@ -1,0 +1,8 @@
+create local file/folder on github
+create local file/folder on github
+cd to the local folder
+git init-connects to the folder on github
+git add (.) add everything or (filename)-add a sepcific file 
+git commit -m "First commit"(in the text add what you have changed)
+git remote add origin (get the url of your repoistory)
+git push origin master
